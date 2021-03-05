@@ -2,9 +2,10 @@
 #### I'm just a curious dev guy
 ![I'm just a curious dev guy](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F81a8bc3e809a0bd49938853ba11b3d45%2Ftenor.gif%3Fitemid%3D7441326&f=1&nofb=1)
 
-I like to develop electronics and software. I'm a noobie in web dev. I'm currently studying elctroncs engingeering.
+I like to develop electronics and software. I'm a noobie in web dev. I'm currently studying elctronics engingeering.
 
-Skills: embedded systems / C / C++ / C# / Java / Arduino / A little assembly
+Best skills: embedded systems / C / C++ / C# / Arduino
+Basic skills: Java / Assembly / Angular / HTML / CSS / Javascript
 
 - 🔭 I’m currently working on on an embedded system project 
 - 🌱 I’m currently learning embedded java 
