@@ -2,13 +2,16 @@
 #### I'm just a curious dev guy
 ![I'm just a curious dev guy](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F81a8bc3e809a0bd49938853ba11b3d45%2Ftenor.gif%3Fitemid%3D7441326&f=1&nofb=1)
 
+### About me
 I like to develop electronics and software. I'm a noobie in web dev. I'm currently studying electronics engingeering.
 
-# Best skills
+### Best skills
 Embedded Systems / C / C++ / C# / Arduino
 
-Basic skills: Java / Assembly / Angular / HTML / CSS / Javascript
+### Basic skills
+Java / Assembly / Angular / HTML / CSS / Javascript
 
+### What am I doing?
 - 🔭 I’m currently working on on an embedded system project 
 - 🌱 I’m currently learning embedded java 
 - 👯 I’m looking to collaborate on embedded libraries 
