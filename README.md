@@ -5,7 +5,7 @@
 ### About me
 I like to develop electronics and software. I'm a noobie in web dev. I'm currently studying electronics engingeering.
 
-### Best skills
+### Advanced skills
 - Embedded Systems
 - C
 - C++
