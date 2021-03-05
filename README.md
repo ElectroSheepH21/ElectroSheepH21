@@ -4,7 +4,7 @@
 
 I like to develop electronics and software. I'm a noobie in web dev. I'm currently studying elctroncs engingeering.
 
-Skills: C / C++ / C# / Java / Arduino / A little assembly
+Skills: embedded systems / C / C++ / C# / Java / Arduino / A little assembly
 
 - 🔭 I’m currently working on on an embedded system project 
 - 🌱 I’m currently learning embedded java 
