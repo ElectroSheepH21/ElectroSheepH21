@@ -22,7 +22,7 @@ I like to develop electronics and software. I'm a noobie in web dev. I'm current
 - Javascript
 
 ### What am I doing?
-- 🔭 I’m currently working on on an embedded system project 
+- 🔭 I’m currently working on an embedded system project 
 - 🌱 I’m currently learning embedded java 
 - 👯 I’m looking to collaborate on embedded libraries 
 - 🤔 I’m looking for help with web dev 
