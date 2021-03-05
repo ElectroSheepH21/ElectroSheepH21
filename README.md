@@ -21,6 +21,7 @@ Java / Assembly / Angular / HTML / CSS / Javascript
 ### Social
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ElectroSheepH21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ElectroSheepH21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://electrosheeph21.github.io/)  
 
+## Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElectroSheepH21)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/ElectroSheepH21)  
