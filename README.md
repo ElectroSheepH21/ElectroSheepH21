@@ -4,7 +4,7 @@
 
 I like to develop electronics and software. I'm a noobie in web dev. I'm currently studying electronics engingeering.
 
-Best skills: embedded systems / C / C++ / C# / Arduino
+Best skills: Embedded Systems / C / C++ / C# / Arduino
 
 Basic skills: Java / Assembly / Angular / HTML / CSS / Javascript
 
