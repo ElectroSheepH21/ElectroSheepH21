@@ -21,9 +21,9 @@ I like to develop electronics and software. I'm a noobie in web dev. I'm current
 ### What am I doing?
 - 🔭 I’m currently working on an embedded system project 
 - 🌱 I’m currently learning embedded java 
-- 👯 I’m looking to collaborate on embedded libraries 
+- 👯 I’m looking to collaborate on simplified libraries 
 - 🤔 I’m looking for help with web dev 
-- ⚡ Fun fact: I love gifs 
+- ⚡ Fun fact: I love gifs
 
 ### Social
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ElectroSheepH21)
