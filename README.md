@@ -19,8 +19,7 @@ I like to develop electronics and software. I'm a noobie in web dev. I'm current
 - Javascript
 
 ### What am I doing?
-- 🔭 I’m currently working on an embedded system project 
-- 🌱 I’m currently learning embedded java 
+- 🔭 I’m currently working on embedded projects
 - 👯 I’m looking to collaborate on simplified libraries 
 - 🤔 I’m looking for help with web dev 
 - ⚡ Fun fact: I love gifs
