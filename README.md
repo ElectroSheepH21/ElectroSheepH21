@@ -11,6 +11,7 @@ I like to develop electronics and software. I'm a noobie in web dev. I'm current
 - C#
 - Arduino
 - Java
+### Know how
 - Python
 - Assembly
 - Angular
