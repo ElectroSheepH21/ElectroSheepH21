@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm ElectroSheepH21
-#### Just a simple man trying to make his way in the universe
+#### I'm just a simple man trying to make his way in the universe
 
 ### About me
 I like to develop electronics and software. I'm a noobie in web dev. I'm currently studying electronics engingeering.
