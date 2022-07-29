@@ -10,7 +10,7 @@ I like to develop electronics and software. I'm a noobie in web dev. I'm current
 - C++
 - C#
 - Arduino
-- Java
+- Java Swing
 ### Know how
 - Python
 - Assembly
