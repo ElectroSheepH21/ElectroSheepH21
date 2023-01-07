@@ -16,7 +16,6 @@ I like to develop electronics and software. I'm a noobie in web dev. I'm current
 ### What am I doing?
 - 🔭 I’m currently working on Python projects
 - 👯 I’m looking to collaborate on simplified libraries 
-- 🤔 I’m looking for help with web dev 
 - ⚡ Fun fact: I love gifs
 
 ### Social
