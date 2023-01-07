@@ -2,7 +2,7 @@
 #### I'm just a simple man trying to make my way in the universe
 
 ### About me
-I like to develop electronics and software. I'm a noobie in web dev. I'm currently studying electronics engingeering.
+I like to develop electronics and software. I'm currently studying electronics engingeering.
 
 ### Skills
 - Embedded Systems
