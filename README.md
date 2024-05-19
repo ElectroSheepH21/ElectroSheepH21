@@ -14,7 +14,7 @@ I like to develop electronics and software. I'm currently studying electronics e
 - Python
 
 ### What am I doing?
-- 🔭 I’m currently working on Python projects
+- 🔭 I’m currently working on C++ and Python projects
 - 👯 I’m looking to collaborate on simplified libraries 
 - ⚡ Fun fact: I love gifs
 
