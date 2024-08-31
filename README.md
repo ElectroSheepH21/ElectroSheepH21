@@ -23,5 +23,3 @@ I like to develop electronics and software. I'm currently studying electrical en
 
 ## Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElectroSheepH21)](https://github.com/anuraghazra/github-readme-stats)
-
-![Profile views](https://gpvc.arturio.dev/ElectroSheepH21)  
