@@ -1,22 +1,21 @@
-### Hi there 👋, I'm ElectroSheepH21
+# Hey there 👋, I'm ElectroSheepH21
+### 💻 Software Developer | 🚀 Programming from Scratch | 👨‍🎓 Electrical Engineer
 #### I'm just a simple man trying to make my way in the universe
 
-### About me
-I like to develop electronics and software. I'm currently studying electrical engingeering.
+---
+  
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py)](https://skillicons.dev)
+  
+  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,arduino)](https://skillicons.dev)
+  
+  [![My Skills](https://skillicons.dev/icons?i=raspberrypi)](https://skillicons.dev)
 
-### Skills
-- Embedded Systems
-- C
-- C++
-- C#
-- Arduino
-- Java
-- Python
+---
 
-### What am I doing?
-- 🔭 I’m currently working on C++ and Python projects
-- 👯 I’m looking to collaborate on simplified libraries 
-- ⚡ Fun fact: I love gifs
+### 🔬 Hobbies & Interests
+- 🛠️ Programming from scratch  
+- 📟 Embedded systems  
+- ⚡ Fun fact: I love gifs  
 
-## Github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElectroSheepH21)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 GitHub Stats
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElectroSheepH21&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
